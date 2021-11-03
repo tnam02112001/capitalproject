@@ -15,7 +15,7 @@
 /rest-api/venv
 /rest-api/__pycache__/
 /.cache
-./.dist
+/dist
 
 # misc
 .DS_Store
