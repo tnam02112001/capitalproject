@@ -1,6 +1,6 @@
-coverage
-pytest
 Flask
 flask-cors
+coverage
+pytest
 pymongo
 dnspython
