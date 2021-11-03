@@ -1,7 +1,4 @@
 # dependencies
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
-# dependencies
 /node_modules
 /.pnp
 .pnp.js
@@ -17,6 +14,8 @@
 /rest-api/node_modules
 /rest-api/venv
 /rest-api/__pycache__/
+/.cache
+./.dist
 
 # misc
 .DS_Store
@@ -24,8 +23,3 @@
 .env.development.local
 .env.test.local
 .env.production.local
-
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-*.pyc

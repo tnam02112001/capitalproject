@@ -1,0 +1,6 @@
+coverage
+pytest
+Flask
+flask-cors
+pymongo
+dnspython
