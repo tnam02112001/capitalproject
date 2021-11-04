@@ -1,6 +1,7 @@
 # War Card Game
 
 War Card Game is a simple card game developed by Nam Nguyen in October, 2021. In this game, two simulated players will play out the game, and the life time wins for each player stored in the MongoDB Cluster. 
+![image](https://github.com/tnam02112001/capitalproject/blob/main/images/gameui.jpg?raw=true)
 
 # Development Environment Set Up
 
