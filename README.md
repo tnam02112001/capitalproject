@@ -9,7 +9,7 @@ War Card Game is a simple card game developed by Nam Nguyen in October, 2021. In
 
 ### 1 - Installing Node.js and npm
 
-For the Frontend Environment, I use Node.js and npm, a package manager for Node.js packages.If you have it already on your computer, skip this section. Otherwise, please downloand and install [Nodejs](https://nodejs.org/en/download/) according to your operating system.
+For the Frontend Environment, I use Node.js and npm, a package manager for Node.js packages.If you have it already on your computer, skip this section. Otherwise, please download and install [Nodejs](https://nodejs.org/en/download/) according to your operating system.
 
 ### 2 - Installing other depedencies
 
@@ -32,7 +32,7 @@ All the backend source code is located inside the `rest-api` directory. Make sur
 
 ### 2 - Installing Flask for the RestAPI
 
-For the Backend Environment, I implement a RESTful API in Python using a library called [Flask](https://flask.palletsprojects.com/en/1.1.x/). Please set up a Python virtual environment adnd install [Flask](https://flask.palletsprojects.com/en/1.1.x/installation/) according to your operarating system
+For the Backend Environment, I implement a RESTful API in Python using a library called [Flask](https://flask.palletsprojects.com/en/1.1.x/). Please set up a Python virtual environment and install [Flask](https://flask.palletsprojects.com/en/1.1.x/installation/) according to your operarating system
 
 ### 3 - Installing other depedencies
 
