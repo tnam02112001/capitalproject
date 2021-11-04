@@ -48,4 +48,7 @@ Our project requires other Python packages that can be automacially collected an
 
 ### 4 - Starting the Backend Environment
 Once the installation finishes, you can start the Backend Environment by calling `flask run`
+
+# Upcoming Features
+If I have more time working on this project, I will polish the Game UI by adding more animations and images. I will also enhance the Backend functionality by allowing the users to change names of the players, and much more!
  
