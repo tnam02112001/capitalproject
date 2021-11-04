@@ -36,7 +36,7 @@ For the Backend Environment, I implement a RESTful API in Python using a library
 
 ### 3 - Installing other depedencies
 
-Our project requires other Python packages that can be automacially collected and installed by calling `pip install -r requirements.txt`. ou can also install each package seperately by following these intrusctions:
+Our project requires other Python packages that can be automacially collected and installed by calling `pip install -r requirements.txt`. You can also install each package seperately by following these intrusctions:
 
 | Package Name | Install |
 | --- | --- |
